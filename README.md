@@ -20,8 +20,6 @@ Organize internship work efficiently
 Showcase practical implementation and learning
 
 
-⭐ Thank you
-
-Special thanks to Celebal Technologies for providing this valuable learning opportunity through the CEI Program 2026.
+⭐Special thanks to Celebal Technologies for providing this valuable learning opportunity through the CEI Program 2026.
 
 “Consistency is the key to continuous improvement.”
