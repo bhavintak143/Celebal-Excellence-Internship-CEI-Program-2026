@@ -11,8 +11,14 @@ Each week’s submission will be uploaded and maintained here for easy access an
 
 
 📂 Weekly Assignment Links
-Week	Assignment Link	Status
-Week 1	View Assignment	✅ Completed
+| Week   | Assignment Link      | Description           | Status      |
+| ------ | -------------------- | --------------------- | ----------- |
+| Week 1 | [Open Assignment](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week1_Bhavin_Prajapat.ipynb) | Introduction & Basics | ✅ Completed |
+| Week 2 | [Open Assignment](#) | Coming Soon           | ⏳ Pending   |
+| Week 3 | [Open Assignment](#) | Coming Soon           | ⏳ Pending   |
+| Week 4 | [Open Assignment](#) | Coming Soon           | ⏳ Pending   |
+| Week 5 | [Open Assignment](#) | Coming Soon           | ⏳ Pending   |
+
 
 
 🎯 Purpose
