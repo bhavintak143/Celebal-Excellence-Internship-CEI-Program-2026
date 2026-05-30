@@ -26,8 +26,6 @@ As part of the CEI Program 2026, participants complete **weekly hands-on assignm
 Overall Progress  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2 / 8 Weeks (12.5%)
 ```
 
-| # | Week | Assignment | Status |
-|---|------|------------|--------|
 | Week | Notebook | Dataset / Resource | Status |
 |------|----------|--------------------|--------|
 | **Week 01** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week1_Bhavin_Prajapat.ipynb) | ❌ No Dataset Required | ✅ Completed |
