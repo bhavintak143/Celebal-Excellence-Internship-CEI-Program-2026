@@ -30,15 +30,15 @@ Overall Progress  ████░░░░░░░░░░░░░░░░�
 |---|------|------------|--------|
 Week	Notebook	Dataset / Resource	Status
 Week 01	📓 Notebook	❌ No Dataset Required	✅ Completed
-Week 02	📓 Notebook	📁 Local Dataset / 🔗 Kaggle Link	✅ Completed
-Week 03	Coming Soon	TBD	⏳ Pending
-Week 04	Coming Soon	TBD	⏳ Pending
-Week 05	Coming Soon	TBD	⏳ Pending
-Week 06	Coming Soon	TBD	⏳ Pending
-Week 07	Coming Soon	TBD	⏳ Pending
-Week 08	Coming Soon	TBD	⏳ Pending
+Week 02	📓 Notebook	📁 Local Dataset / 🔗 Kaggle Dataset (if applicable)	✅ Completed
+Week 03	Coming Soon	📢 To Be Announced	⏳ Pending
+Week 04	Coming Soon	📢 To Be Announced	⏳ Pending
+Week 05	Coming Soon	📢 To Be Announced	⏳ Pending
+Week 06	Coming Soon	📢 To Be Announced	⏳ Pending
+Week 07	Coming Soon	📢 To Be Announced	⏳ Pending
+Week 08	Coming Soon	📢 To Be Announced	⏳ Pending
 
-> 📝 Assignment links activate upon submission. Topics added each week when released.
+📝 Assignment notebooks, datasets, and Kaggle links will be updated weekly as new tasks are released during the CEI Program 2026.
 
 ---
 
