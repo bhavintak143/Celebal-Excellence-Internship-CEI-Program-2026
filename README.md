@@ -71,13 +71,16 @@ Overall Progress  ████████░░░░░░░░░░░░  
 
 ## 👤 Intern Profile
 
-| Field | Details |
-|-------|---------|
-| **Name** | Bhavin Prajapat |
-| **Program** | Celebal Excellence Internship (CEI) 2026 |
-| **Organization** | Celebal Technologies |
-| **Duration** | 8 Weeks |
-| **GitHub** | [bhavintak143](https://github.com/bhavintak143) |
+| Field            | Details                                                           |
+| ---------------- | ----------------------------------------------------------------- |
+| **Name**         | Bhavin Prajapat                                                   |
+| **Program**      | Celebal Excellence Internship (CEI) 2026                          |
+| **Organization** | Celebal Technologies                                              |
+| **Duration**     | 8 Weeks                                                           |
+| **GitHub**       | [bhavintak143](https://github.com/bhavintak143)                   |
+| **LinkedIn**     | [LinkedIn Profile(https://www.linkedin.com/in/bhavin-prajapat143) |
+| **Email**        | [bhavintak8863@gmail.com](bhavintak8863@gmail.com)           |
+
 
 ---
 
