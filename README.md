@@ -24,6 +24,7 @@ As part of the CEI Program 2026, participants complete **weekly hands-on assignm
 
 ```
 Overall Progress  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3 / 8 Weeks (37.5%)
+
 ```
 
 | Week | Notebook | Dataset / Resource | Status |
