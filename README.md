@@ -4,7 +4,7 @@
 
 [![Program](https://img.shields.io/badge/CEI_Program-2026-534AB7?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
 [![Duration](https://img.shields.io/badge/Duration-8_Weeks-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
-[![Progress](https://img.shields.io/badge/Progress-2%2F8_Complete-BA7517?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
+[![Progress](https://img.shields.io/badge/Progress-3%2F8_Complete-BA7517?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
 [![Status](https://img.shields.io/badge/Status-Active-D85A30?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
 > *"Consistency is the key to continuous improvement."*
 
