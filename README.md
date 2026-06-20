@@ -32,7 +32,7 @@ Overall Progress  ████████████░░░░░░░░  
 | **Week 02** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week2_Bhavin_Prajapat.ipynb) | [🔗 Kaggle Dataset](https://www.kaggle.com/code/bhavintak/tesla-ev-analytics-production-prediction/input?scriptVersionId=322680809&select=tesla_deliveries_dataset_2015_2025.csv) | ✅ Completed |
 | **Week 03** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week3_Bhavin_Prajapat.ipynb) | [🔗 Kaggle Dataset](https://www.kaggle.com/code/bhavintak/country-data-insights-through-clustering/input?scriptVersionId=324918250&select=Country-data.csv) | ✅ Completed |
 | **Week 04** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week4_Bhavin_Prajapat.ipynb) | ❌ No Dataset Required | ✅ Completed |
-| **Week 05** | [📓 Notebook]() | ❌ No Dataset Required | ✅ Completed |
+| **Week 05** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week5_Bhavin_Prajapat.ipynb) | ❌ No Dataset Required | ✅ Completed |
 | **Week 06** | 🔒 Coming Soon | 📢 To Be Announced | ⏳ Pending |
 | **Week 07** | 🔒 Coming Soon | 📢 To Be Announced | ⏳ Pending |
 | **Week 08** | 🔒 Coming Soon | 📢 To Be Announced | ⏳ Pending |
