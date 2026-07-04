@@ -4,7 +4,7 @@
 
 [![Program](https://img.shields.io/badge/CEI_Program-2026-534AB7?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
 [![Duration](https://img.shields.io/badge/Duration-8_Weeks-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
-[![Progress](https://img.shields.io/badge/Progress-6%2F8_Complete-BA7517?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
+[![Progress](https://img.shields.io/badge/Progress-7%2F8_Complete-BA7517?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
 [![Status](https://img.shields.io/badge/Status-Active-D85A30?style=for-the-badge&logoColor=white)](https://github.com/bhavintak143)
 > *"Consistency is the key to continuous improvement."*
 
@@ -23,7 +23,7 @@ As part of the CEI Program 2026, participants complete **weekly hands-on assignm
 ## 📊 Progress Overview
 
 ```
-Overall Progress  ███████████████░░░░░  6 / 8 Weeks Completed (75%)
+Overall Progress  ████████████████████░  7 / 8 Weeks Completed (87.5%)
 ```
 
 | Week | Notebook | Dataset / Resource | Status |
@@ -34,7 +34,7 @@ Overall Progress  ███████████████░░░░░  
 | **Week 04** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week4_Bhavin_Prajapat.ipynb) | ❌ No Dataset Required | ✅ Completed |
 | **Week 05** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week5_Bhavin_Prajapat.ipynb) | ❌ No Dataset Required | ✅ Completed |
 | **Week 06** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week6_Bhavin_Prajapat.ipynb) |[🔗 Kaggle Dataset](https://www.kaggle.com/datasets/awsaf49/mnist-dataset) | ✅ Completed |
-| **Week 07** | 🔒 Coming Soon | 📢 To Be Announced | ⏳ Pending |
+| **Week 07** | [📓 Notebook](https://github.com/bhavintak143/Celebal-Excellence-Internship-CEI-Program-2026/blob/main/week7_Bhavin_Prajapat.ipynb) | ❌ No Dataset Required | ✅ Completed |
 | **Week 08** | 🔒 Coming Soon | 📢 To Be Announced | ⏳ Pending |
 
 📝 Assignment notebooks, datasets, and Kaggle links will be updated weekly as new tasks are released during the CEI Program 2026.
@@ -51,7 +51,7 @@ Overall Progress  ███████████████░░░░░  
  ┣ 📓 week4_Bhavin_Prajapat.ipynb    ✅ Submitted
  ┣ 📓 week5_Bhavin_Prajapat.ipynb    ✅ Submitted
  ┣ 📓 week6_Bhavin_Prajapat.ipynb    ✅ Submitted
- ┣ 📓 week7_Bhavin_Prajapat.ipynb    ⏳ Upcoming
+ ┣ 📓 week7_Bhavin_Prajapat.ipynb    ✅ Submitted
  ┣ 📓 week8_Bhavin_Prajapat.ipynb    ⏳ Upcoming
  ┗ 📄 README.md
 ```
